@@ -17,4 +17,4 @@
 
 <img width="48%" img src="https://github-readme-stats.vercel.app/api?username=adityay72&theme=radical&show_icons=true">
 <!-- <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=adityay72&theme=radical&show_icons=true" />  -->
-[![An image of @adityay72's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adityay72)](https://holopin.io/@adityay72)
+<!-- [![An image of @adityay72's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adityay72)](https://holopin.io/@adityay72) -->
