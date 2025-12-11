@@ -25,6 +25,9 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+### 🐍 Contribution Snake
+
+![GitHub Contribution Snake](https://raw.githubusercontent.com/adityay72/adityay72/output/snake.svg)
 
 
 <div align="left">
